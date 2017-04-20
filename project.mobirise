@@ -112,9 +112,9 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text1": "<p>免费 &nbsp;空调清洗</p><p><br></p><p>仅限三台 限挂机1.5匹内</p><p>免费不包含客厅柜机</p><p><span style=\"line-height: 1.5;\">只要在5、6月份签约客户</span><br></p><p>此项服务即赠送！</p><p> </p><p><br></p><p>.</p>",
-          "text2": "<p>免费 &nbsp;入住保洁 消毒</p><p><span style=\"line-height: 1.5;\"><br></span></p><p><span style=\"line-height: 1.5;\">每户一次 &nbsp;约1.5小时</span><br></p><p>不属于精细深度清洁</p><p>只要在5、6月份签约客户</p><p>此项服务即赠送！</p>",
-          "text3": "<p><span style=\"line-height: 1.5;\">免费 &nbsp;洗衣机清洗 消毒&nbsp;</span><br></p><p><br></p><p>仅限一台洗衣机</p><p>包含清洗 消毒 外观洁净</p><p><span style=\"line-height: 1.5;\">只要在5、6月份签约客户</span><br></p><p>此项服务即赠送！</p>"
+          "text1": "<p><b>免费 &nbsp;空调清洗</b></p><p><br></p><p>仅限三台 限挂机1.5匹内</p><p>免费不包含客厅柜机</p><p><span style=\"line-height: 1.5;\">只要在5、6月份签约客户</span><br></p><p>此项服务即赠送！</p><p> </p><p><br></p><p>.</p>",
+          "text2": "<p><b>免费 &nbsp;入住保洁 消毒</b></p><p><span style=\"line-height: 1.5;\"><br></span></p><p><span style=\"line-height: 1.5;\">每户一次 &nbsp;约1.5小时</span><br></p><p>不属于精细深度清洁</p><p>只要在5、6月份签约客户</p><p>此项服务即赠送！</p>",
+          "text3": "<p><b><span style=\"line-height: 1.5;\">免费 &nbsp;洗衣机清洗 消毒&nbsp;</span><br></b></p><p><br></p><p>仅限一台洗衣机</p><p>包含清洗 消毒 外观洁净</p><p><span style=\"line-height: 1.5;\">只要在5、6月份签约客户</span><br></p><p>此项服务即赠送！</p>"
         },
         {
           "_tags": [
@@ -127,7 +127,12 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>客户在5、6月份通过”品居租房”租房签约后我们提供一系列的系统服务，解决客户后顾之忧</p><p>让找房子、搬家变得是一件很简便轻松的事情，不在烦脑。</p><p><br></p><p>接下来还会推出更多的贴心服务，敬请期待吧！</p>"
+          "text": "<p><br></p><p>客户在5、6月份通过”品居租房”租房签约后我们提供一系列的系统服务，解决客户后顾之忧</p><p><br></p><p>让找房子、搬家变得是一件很简单轻松的事情，不在烦脑。</p><p><br></p>",
+          "_styles": {
+            "P": {
+              "color": "#232323"
+            }
+          }
         },
         {
           "_tags": [
@@ -272,7 +277,7 @@
             "showMeta": true
           },
           "title": "",
-          "meta": "声明：以上提供的低价居家商品，均为本公司月采购全新机，因成本、人工等因素起租为一年起，不满一年按一年计费。"
+          "meta": "声明：以上提供的低价家电商品，均为本公司采购全新机，因成本人工等因素起租期为一年起，不满一年按一年计费。"
         },
         {
           "_tags": [
@@ -300,7 +305,7 @@
             "showTitle": true,
             "showSubTitle": true
           },
-          "title": "咨讯租赁及确认&nbsp;",
+          "title": "咨讯及租赁",
           "subtitle": "活动细则如有未尽事项，请联系品居租房运营团队，咨讯了解您的问题！",
           "form": {
             "action": "xihanw@qq.com",
