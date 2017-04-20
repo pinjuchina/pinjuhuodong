@@ -1,0 +1,357 @@
+{
+  "settings": {
+    "name": "NewSite-04-20_1451",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 28,
+    "versionPublish": "3.12.1"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-n",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.2",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "品质居家 找 品居租房",
+          "text": "<p>品居 将为客户 省心 省事 &nbsp;省钱住进舒适的新家.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "36px"
+            },
+            "SMALL": {
+              "color": "#41a85f"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-l",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "<font color=\"#000000\">&nbsp;</font>清凉初夏 行动",
+          "meta": "&nbsp;2017年 5、6月优惠活动"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_styles": {
+            "P": {
+              "font-size": "21px"
+            }
+          },
+          "_anchor": "content7-o",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text1": "<p>免费 &nbsp;空调清洗</p><p><br></p><p>仅限三台 限挂机1.5匹内</p><p>免费不包含客厅柜机</p><p><span style=\"line-height: 1.5;\">只要在5、6月份签约客户</span><br></p><p>此项服务即赠送！</p><p> </p><p><br></p><p>.</p>",
+          "text2": "<p>免费 &nbsp;入住保洁 消毒</p><p><span style=\"line-height: 1.5;\"><br></span></p><p><span style=\"line-height: 1.5;\">每户一次 &nbsp;约1.5小时</span><br></p><p>不属于精细深度清洁</p><p>只要在5、6月份签约客户</p><p>此项服务即赠送！</p>",
+          "text3": "<p><span style=\"line-height: 1.5;\">免费 &nbsp;洗衣机清洗 消毒&nbsp;</span><br></p><p><br></p><p>仅限一台洗衣机</p><p>包含清洗 消毒 外观洁净</p><p><span style=\"line-height: 1.5;\">只要在5、6月份签约客户</span><br></p><p>此项服务即赠送！</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-m",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>客户在5、6月份通过”品居租房”租房签约后我们提供一系列的系统服务，解决客户后顾之忧</p><p>让找房子、搬家变得是一件很简便轻松的事情，不在烦脑。</p><p><br></p><p>接下来还会推出更多的贴心服务，敬请期待吧！</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-c",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "4",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-600x449.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "<font color=\"#000000\">净水器 &nbsp;</font>￥39元/月",
+          "subtitle1": "<span style=\"font-style: normal;\">进口净水器 品质保证 全新</span>",
+          "caption1": "免费上门安装，<br>非人为因质量问题，免费换新机，<br><font color=\"#000000\">月租金包含安装费、材料费</font>.<br><font color=\"#000000\">无其它隐形费用.</font>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-600x539.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "&nbsp; 洗衣机￥49元/月",
+          "subtitle2": "<span style=\"font-style: normal;\">品牌静音 &nbsp;节能洗衣机 全新</span>",
+          "caption2": "免费送货上门安装.<br><font color=\"#000000\">全新机，让家人更安心</font><br><font color=\"#000000\">月租金包含上门取送安装</font><br><font color=\"#000000\">无其它隐形费用.</font>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/55-600x540.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "&nbsp; 净水器 &nbsp;￥29元/月",
+          "subtitle3": "<span style=\"font-style: normal;\">进品净水器 品质保证 全新</span>",
+          "caption3": "免费上门安装<br><font color=\"#000000\">非人为因质量问题，免费换新机</font>.<br><font color=\"#000000\">月租金包含安装费、材料费.</font><br><font color=\"#000000\">无其它隐形费用.</font>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-2-600x451.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "<font color=\"#000000\">空调 &nbsp;</font>￥49元/月",
+          "subtitle4": "<span style=\"font-style: normal;\">品牌单冷空调 全新</span>",
+          "caption4": "免费上门安装<br><font color=\"#000000\">全新机 &nbsp;节能系列</font><br><font color=\"#000000\">因拆机为高空危险作业</font><br><font color=\"#000000\">取机时，将收取拆机费</font><br><font color=\"#000000\">无其它隐形费用.</font><br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_styles": {
+            "H4": {
+              "font-size": "23px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "color": "#e25041"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-k",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#ffffff",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": "声明：以上提供的低价居家商品，均为本公司月采购全新机，因成本、人工等因素起租为一年起，不满一年按一年计费。"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
+          "_anchor": "form1-p",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "咨讯租赁及确认&nbsp;",
+          "subtitle": "活动细则如有未尽事项，请联系品居租房运营团队，咨讯了解您的问题！",
+          "form": {
+            "action": "xihanw@qq.com",
+            "alerts": {
+              "success": "感谢您关注 品居租房!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "您的称呼*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "邮箱*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "手机"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "您想了解什么问题 请告诉我们 我们尽快回复您！"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">朕已确认</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-q",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "品居租房 &nbsp; 品质居家"
+        }
+      ]
+    }
+  }
+}
