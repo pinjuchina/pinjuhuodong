@@ -121,24 +121,29 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "content1-m",
           "_params": {
             "paddingTop": "0",
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><br></p><p>客户在5、6月份通过”品居租房”租房签约后我们提供一系列的系统服务，解决客户后顾之忧</p><p><br></p><p>让找房子、搬家变得是一件很简单轻松的事情，不在烦脑。</p><p><br></p>",
-          "_styles": {
-            "P": {
-              "color": "#232323"
-            }
-          }
+          "text": "<p><br></p><p>客户在5、6月份通过”品居租房”租房签约后我们提供一系列的系统服务，解决客户后顾之忧</p><p><br></p><p>让找房子、搬家变得是一件很简单轻松的事情，不在烦脑。</p><p><br></p>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "features3",
+          "_styles": {
+            "H4": {
+              "font-size": "23px"
+            }
+          },
           "_anchor": "features3-c",
           "_params": {
             "paddingTop": "0",
@@ -249,12 +254,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            "H4": {
-              "font-size": "23px"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_styles": {
