@@ -23,7 +23,8 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 28,
-    "versionPublish": "3.12.1"
+    "versionPublish": "3.12.1",
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -66,8 +67,8 @@
             "showText": true,
             "showButton": false
           },
-          "title": "品质居家 找 品居租房",
-          "text": "<p>品居 将为客户 省心 省事 &nbsp;省钱住进舒适的新家.</p>",
+          "title": "品质居家 &nbsp; 找 品居租房",
+          "text": "<p>品居将为客户 省心 省事 &nbsp;省钱住进舒适的新家.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -93,7 +94,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "<font color=\"#000000\">&nbsp;</font>清凉初夏 行动",
+          "title": "<font color=\"#000000\">&nbsp;</font>清凉初夏 免费了",
           "meta": "&nbsp;2017年 5、6月优惠活动"
         },
         {
@@ -112,9 +113,9 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text1": "<p><b>免费 &nbsp;空调清洗</b></p><p><br></p><p>仅限三台 限挂机1.5匹内</p><p>免费不包含客厅柜机</p><p><span style=\"line-height: 1.5;\">只要在5、6月份签约客户</span><br></p><p>此项服务即赠送！</p><p> </p><p><br></p><p>.</p>",
-          "text2": "<p><b>免费 &nbsp;入住保洁 消毒</b></p><p><span style=\"line-height: 1.5;\"><br></span></p><p><span style=\"line-height: 1.5;\">每户一次 &nbsp;约1.5小时</span><br></p><p>不属于精细深度清洁</p><p>只要在5、6月份签约客户</p><p>此项服务即赠送！</p>",
-          "text3": "<p><b><span style=\"line-height: 1.5;\">免费 &nbsp;洗衣机清洗 消毒&nbsp;</span><br></b></p><p><br></p><p>仅限一台洗衣机</p><p>包含清洗 消毒 外观洁净</p><p><span style=\"line-height: 1.5;\">只要在5、6月份签约客户</span><br></p><p>此项服务即赠送！</p>"
+          "text1": "<p><b>一.免费 &nbsp;空调清洗</b></p><p><br></p><p>仅限三台 限挂机1.5匹内</p><p>免费不包含客厅柜机</p><p><br></p><p> </p><p><br></p><p>.</p>",
+          "text2": "<p><b>二.免费 &nbsp;入住保洁 消毒</b></p><p><span style=\"line-height: 1.5;\"><br></span></p><p><span style=\"line-height: 1.5;\">每户一次 &nbsp;约1.5小时</span><br></p><p>不属于精细深度清洁</p><p><br></p>",
+          "text3": "<p><b><span style=\"line-height: 1.5;\">三.免费 &nbsp;洗衣机清洗 消毒&nbsp;</span><br></b></p><p><br></p><p>仅限一台洗衣机</p><p>包含清洗 消毒 外观洁净</p><p><span style=\"line-height: 1.5;\"><br></span></p><p><span style=\"line-height: 1.5;\">注：只要在5、6月份签约客户</span><span style=\"line-height: 1.5;\">即赠送以上服务！</span></p>"
         },
         {
           "_tags": [
