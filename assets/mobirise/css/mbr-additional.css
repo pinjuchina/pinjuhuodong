@@ -415,6 +415,9 @@ h6,
 #msg-box8-n p {
   color: #fff;
 }
+#msg-box8-n .mbr-section-title {
+  color: #ffffff;
+}
 #header3-l .mbr-section-title,
 #header3-l .mbr-section-subtitle {
   text-align: center;

@@ -41,6 +41,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -53,7 +56,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/-2-600x451.png",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -67,7 +70,7 @@
             "showText": true,
             "showButton": false
           },
-          "title": "品质居家 &nbsp; 找 &nbsp;品居租房",
+          "title": "&nbsp; 品质居家 &nbsp; 找 &nbsp;品居租房",
           "text": "<p>品居将为客户 省心 省事 &nbsp;省钱住进舒适的新家.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
