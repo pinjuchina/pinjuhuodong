@@ -348,6 +348,11 @@
             "Theme"
           ],
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#fac51c"
+            }
+          },
           "_anchor": "footer1-q",
           "_params": {
             "paddingTop": "1",
@@ -361,7 +366,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "品居租房 &nbsp; 品质居家 &nbsp; &nbsp; &nbsp;info@pinju.site"
+          "text": "品居租房 &nbsp; 品质居家 &nbsp; &nbsp; &nbsp;<b>info@pinju.site</b>"
         }
       ]
     }
