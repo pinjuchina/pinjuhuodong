@@ -43,7 +43,10 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#fac51c"
+            },
+            ".lead P": {
+              "color": "#fac51c"
             }
           },
           "_tags": [
@@ -52,8 +55,8 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-n",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "3",
+            "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/-2000x1531.jpg",
@@ -83,7 +86,7 @@
               "font-size": "36px"
             },
             "SMALL": {
-              "color": "#41a85f"
+              "color": "#fac51c"
             }
           },
           "_tags": [
@@ -98,7 +101,7 @@
             "showMeta": true
           },
           "title": "<font color=\"#000000\">&nbsp;</font>清凉初夏 免费了",
-          "meta": "&nbsp;2017年 5、6月优惠活动"
+          "meta": "&nbsp;2017年 6、7月优惠活动"
         },
         {
           "_tags": [
@@ -118,7 +121,7 @@
           },
           "text1": "<p><b>一.免费 &nbsp;空调清洗</b></p><p><br></p><p>仅限三台 限挂机1.5匹内</p><p>免费不包含客厅柜机</p><p><br></p><p> </p><p><br></p><p>.</p>",
           "text2": "<p><b>二.免费 &nbsp;入住保洁 消毒</b></p><p><span style=\"line-height: 1.5;\"><br></span></p><p><span style=\"line-height: 1.5;\">每户一次 &nbsp;约1.5小时</span><br></p><p>不属于精细深度清洁</p><p><br></p>",
-          "text3": "<p><b><span style=\"line-height: 1.5;\">三.免费 &nbsp;洗衣机清洗 消毒&nbsp;</span><br></b></p><p><br></p><p>仅限一台洗衣机</p><p>包含清洗 消毒 外观洁净</p><p><span style=\"line-height: 1.5;\"><br></span></p><p><span style=\"line-height: 1.5;\">注：只要在5、6月份签约客户</span><span style=\"line-height: 1.5;\">即赠送以上服务！</span></p>"
+          "text3": "<p><b><span style=\"line-height: 1.5;\">三.免费 &nbsp;洗衣机清洗 消毒&nbsp;</span><br></b></p><p><br></p><p>仅限一台洗衣机</p><p>包含清洗 消毒 外观洁净</p><p><span style=\"line-height: 1.5;\"><br></span></p><p><span style=\"line-height: 1.5;\">注：仅限在6、7月份签约客户</span><span style=\"line-height: 1.5;\">即赠送以上服务！</span></p>"
         },
         {
           "_tags": [
@@ -136,7 +139,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><br></p><p>客户在5、6月份通过”品居租房”租房签约后我们提供一系列的系统服务，解决客户后顾之忧</p><p><br></p><p>让找房子、搬家变得是一件很简单轻松的事情，不在烦脑。</p><p><br></p>"
+          "text": "<p><br></p><p>客户在6、7月份通过”品居租房”租房签约后我们提供一系列的系统服务，解决客户后顾之忧</p><p><br></p><p>让找房子、搬家变得是一件很简单轻松的事情，不在烦脑。</p><p><br></p>"
         },
         {
           "_tags": [
@@ -199,7 +202,7 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "&nbsp; 洗衣机￥49元/月",
+          "title2": "&nbsp;洗衣机￥49元/月",
           "subtitle2": "<span style=\"font-style: normal;\">品牌静音 &nbsp;节能洗衣机 全新</span>",
           "caption2": "免费送货上门安装.<br><font color=\"#000000\">全新机，让家人更安心</font><br><font color=\"#000000\">月租金包含上门取送安装</font><br><font color=\"#000000\">无其它隐形费用.</font>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -290,18 +293,18 @@
           "_name": "form1",
           "_styles": {
             ".form-control-label": {
-              "color": "#232323"
+              "color": "#faaf40"
             }
           },
           "_anchor": "form1-p",
           "_params": {
-            "labelsColor": "#232323",
+            "labelsColor": "#faaf40",
             "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
@@ -309,7 +312,7 @@
             "showTitle": true,
             "showSubTitle": true
           },
-          "title": "咨讯及租赁",
+          "title": "<br>咨讯及租赁",
           "subtitle": "活动细则如有未尽事项，请联系品居租房运营团队，咨讯了解您的问题！",
           "form": {
             "action": "xihanw@qq.com",
@@ -358,7 +361,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "品居租房 &nbsp; 品质居家"
+          "text": "品居租房 &nbsp; 品质居家 &nbsp; &nbsp; &nbsp;info@pinju.site"
         }
       ]
     }

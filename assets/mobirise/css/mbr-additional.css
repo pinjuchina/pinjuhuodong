@@ -416,7 +416,10 @@ h6,
   color: #fff;
 }
 #msg-box8-n .mbr-section-title {
-  color: #ffffff;
+  color: #fac51c;
+}
+#msg-box8-n .lead P {
+  color: #fac51c;
 }
 #header3-l .mbr-section-title,
 #header3-l .mbr-section-subtitle {
@@ -426,7 +429,7 @@ h6,
   font-size: 36px;
 }
 #header3-l SMALL {
-  color: #41a85f;
+  color: #fac51c;
 }
 #content7-o P {
   font-size: 21px;
@@ -445,5 +448,5 @@ h6,
   color: #e25041;
 }
 #form1-p .form-control-label {
-  color: #232323;
+  color: #faaf40;
 }
