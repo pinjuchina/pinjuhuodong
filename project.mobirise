@@ -24,7 +24,8 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 28,
     "versionPublish": "3.12.1",
-    "path": "@PROJECT_PATH@"
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -55,7 +56,7 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-n",
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "2",
             "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
@@ -176,7 +177,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x449.png",
+              "src": "@PROJECT_PATH@/assets/images/-20170525-1-600x494.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -192,7 +193,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x539.png",
+              "src": "@PROJECT_PATH@/assets/images/-20170526-600x450.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -202,13 +203,13 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "&nbsp;洗衣机￥49元/月",
-          "subtitle2": "<span style=\"font-style: normal;\">品牌静音 &nbsp;节能洗衣机 全新</span>",
-          "caption2": "免费送货上门安装.<br><font color=\"#000000\">全新机，让家人更安心</font><br><font color=\"#000000\">月租金包含上门取送安装</font><br><font color=\"#000000\">无其它隐形费用.</font>",
+          "title2": "&nbsp;电视机￥89元/月",
+          "subtitle2": "<span style=\"font-style: normal;\">品牌4K &nbsp;节能电视机 全新</span>",
+          "caption2": "免费送货上门安装.<br><font color=\"#000000\">全新机，震撼你的视觉</font><br><font color=\"#000000\">月租金包含上门取送安装</font><br><font color=\"#000000\">无其它隐形费用.</font>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/55-600x488.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-20170525-3-600x478.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -224,7 +225,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-2-600x451.png",
+              "src": "@PROJECT_PATH@/assets/images/-20170525-1-600x447.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
